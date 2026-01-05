@@ -1,4 +1,4 @@
-### Opa, bão? Sou o Marcos Rocha 🤙🏽
+### Opa, bão? Sou o Marcos 🤙🏽
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos01MK&show_icons=true&theme=dark)
 
@@ -12,10 +12,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="right" alt="mkcm" width="200" src="https://github.com/user-attachments/assets/da5182eb-f43b-4c9e-a7ae-263bc06249e3" />
 </div><br/>
-
-
-
-
+Boa noite, boa tarde e bom dia.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcos01MK/Marcos01MK/output/github-contribution-grid-snake-dark.svg">
