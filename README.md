@@ -11,7 +11,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="right" alt="mkcm" width="200" src="https://github.com/user-attachments/assets/da5182eb-f43b-4c9e-a7ae-263bc06249e3" />
+  <img align="right" alt="mkcm" width="200" src="https://github.com/user-attachments/assets/b5c19d38-d7bb-4c99-9aec-18f2731413bd" />
 </div><br/>
 Boa noite, boa tarde e bom dia.
 
