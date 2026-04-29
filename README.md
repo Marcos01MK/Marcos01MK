@@ -1,4 +1,4 @@
-### Opa, bão? Sou o Marcos 🤙🏽
+### Hey, how are you? I'm Marcos 🤙🏽
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos01MK&show_icons=true&theme=dark)
 
