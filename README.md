@@ -44,3 +44,6 @@ Boa noite, boa tarde e bom dia.
 <p align="center">
   <img src="https://media1.tenor.com/m/ob4qP-jLrNUAAAAC/jujutsu-kaisen-kugisaki-nobara.gif" alt="Nobara Kugisaki Banner" width="500px">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Tsukurimashou,+tsukurimashou+Hai+dekimashita+!!++=]">
+</p>
