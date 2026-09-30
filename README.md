@@ -1,5 +1,6 @@
 ### Hey, how are you? I'm Marcos 🤙🏽
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Saurus,+Was+Here+GRAAAWRRRR!!++=])](https://git.io/typing-svg)
+![Banner](https://media1.tenor.com/m/9leqjbHV2aoAAAAC/meme.gif))
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos01MK&show_icons=true&theme=dark)
 
 ## Skills
@@ -20,3 +21,6 @@ Boa noite, boa tarde e bom dia.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcos01MK/Marcos01MK/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marcos01MK/Marcos01MK/output/github-contribution-grid-snake.svg">
 </picture>
+<p align="center">
+  <img src="https://media1.tenor.com/m/ob4qP-jLrNUAAAAC/jujutsu-kaisen-kugisaki-nobara.gif" alt="Nobara Kugisaki Banner" width="500px">
+</p>
