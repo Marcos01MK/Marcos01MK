@@ -1,6 +1,6 @@
 ### Hey, how are you? I'm Marcos 🤙🏽
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Saurus,+Was+Here+GRAAAWRRRR!!++=])](https://git.io/typing-svg)
-![Banner](https://media1.tenor.com/m/9leqjbHV2aoAAAAC/meme.gif))
+![Banner](https://media1.tenor.com/m/9leqjbHV2aoAAAAC/meme.gif)
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos01MK&show_icons=true&theme=dark)
 
 ## Skills
